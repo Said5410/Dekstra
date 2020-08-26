@@ -1,0 +1,44 @@
+c:\users\admin\documents\visual studio 2015\Projects\MainAll\MainAll\bin\Debug\MainAll.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\MainAll\MainAll\bin\Debug\MainAll.exe
+c:\users\admin\documents\visual studio 2015\Projects\MainAll\MainAll\bin\Debug\MainAll.pdb
+c:\users\admin\documents\visual studio 2015\Projects\MainAll\MainAll\obj\Debug\MainAll.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\MainAll\MainAll\obj\Debug\MainAll.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\MainAll\MainAll\obj\Debug\MainAll.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\MainAll\MainAll\obj\Debug\MainAll.exe
+c:\users\admin\documents\visual studio 2015\Projects\MainAll\MainAll\obj\Debug\MainAll.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\MainAll\MainAll\obj\Debug\MainAll.AllIn.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\MainAll\MainAll\obj\Debug\MainAll.DekstraForm.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\MainAll\MainAll\obj\Debug\MainAll.MaxThreadForm.resources
+C:\Users\Admin\Google Диск\Курсач\MainAll\MainAll\bin\Debug\MainAll.exe.config
+C:\Users\Admin\Google Диск\Курсач\MainAll\MainAll\obj\Debug\MainAll.exe
+C:\Users\Admin\Google Диск\Курсач\MainAll\MainAll\obj\Debug\MainAll.pdb
+C:\Users\Admin\Google Диск\Курсач\MainAll\MainAll\bin\Debug\MainAll.exe
+C:\Users\Admin\Google Диск\Курсач\MainAll\MainAll\bin\Debug\MainAll.pdb
+C:\Users\Admin\Google Диск\Курсач\MainAll\MainAll\obj\Debug\MainAll.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Google Диск\Курсач\MainAll\MainAll\obj\Debug\MainAll.AllIn.resources
+C:\Users\Admin\Google Диск\Курсач\MainAll\MainAll\obj\Debug\MainAll.DekstraForm.resources
+C:\Users\Admin\Google Диск\Курсач\MainAll\MainAll\obj\Debug\MainAll.MaxThreadForm.resources
+C:\Users\Admin\Google Диск\Курсач\MainAll\MainAll\obj\Debug\MainAll.Properties.Resources.resources
+C:\Users\Admin\Google Диск\Курсач\MainAll\MainAll\obj\Debug\MainAll.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Раб стол\MainAll\MainAll\bin\Debug\MainAll.exe.config
+C:\Users\Admin\Desktop\Раб стол\MainAll\MainAll\obj\Debug\MainAll.exe
+C:\Users\Admin\Desktop\Раб стол\MainAll\MainAll\obj\Debug\MainAll.pdb
+C:\Users\Admin\Desktop\Раб стол\MainAll\MainAll\bin\Debug\MainAll.exe
+C:\Users\Admin\Desktop\Раб стол\MainAll\MainAll\bin\Debug\MainAll.pdb
+C:\Users\Admin\Desktop\Раб стол\MainAll\MainAll\obj\Debug\MainAll.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Раб стол\MainAll\MainAll\obj\Debug\MainAll.AllIn.resources
+C:\Users\Admin\Desktop\Раб стол\MainAll\MainAll\obj\Debug\MainAll.DekstraForm.resources
+C:\Users\Admin\Desktop\Раб стол\MainAll\MainAll\obj\Debug\MainAll.MaxThreadForm.resources
+C:\Users\Admin\Desktop\Раб стол\MainAll\MainAll\obj\Debug\MainAll.Properties.Resources.resources
+C:\Users\Admin\Desktop\Раб стол\MainAll\MainAll\obj\Debug\MainAll.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\MainAll\MainAll\bin\Debug\MainAll.exe.config
+C:\Users\Admin\Desktop\MainAll\MainAll\obj\Debug\MainAll.exe
+C:\Users\Admin\Desktop\MainAll\MainAll\obj\Debug\MainAll.pdb
+C:\Users\Admin\Desktop\MainAll\MainAll\bin\Debug\MainAll.exe
+C:\Users\Admin\Desktop\MainAll\MainAll\bin\Debug\MainAll.pdb
+C:\Users\Admin\Desktop\MainAll\MainAll\obj\Debug\MainAll.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\MainAll\MainAll\obj\Debug\MainAll.AllIn.resources
+C:\Users\Admin\Desktop\MainAll\MainAll\obj\Debug\MainAll.DekstraForm.resources
+C:\Users\Admin\Desktop\MainAll\MainAll\obj\Debug\MainAll.MaxThreadForm.resources
+C:\Users\Admin\Desktop\MainAll\MainAll\obj\Debug\MainAll.Properties.Resources.resources
+C:\Users\Admin\Desktop\MainAll\MainAll\obj\Debug\MainAll.csproj.GenerateResource.Cache
